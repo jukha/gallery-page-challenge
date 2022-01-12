@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/jukha/gallery-page-challenge/">
+    <a href="https://jukha.github.io/gallery-page-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://jukha.github.io/gallery-page-challenge/">
+    <a href="https://github.com/jukha/gallery-page-challenge">
       Solution
     </a>
     <span> | </span>
